@@ -18,7 +18,7 @@ Industry mentor for students at Georgia Tech and Arizona State.
 
 ## Education
 
-- **Georgia Institute of Technology** — Master of Science, Computer Science - Machine Learning (2023)
+- **Georgia Institute of Technology** — Master of Science, Computer Science - Machine Learning (2022)
 - **Arizona State University** — Bachelor of Science, Business Data Analytics (2019)
 
 ---
