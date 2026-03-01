@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/waugh-joseph10/waugh-joseph10/main/assets/header.png" alt="Joe Waugh | Sr. Machine Learning Engineer" width="100%"/>
+**Joe Waugh** · Senior Machine Learning Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-waugh-672664139/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joe-waugh.com)
@@ -12,11 +12,9 @@
 
 ## About
 
-Machine learning engineer passionate about building intelligent systems that solve real-world problems. I specialize in building computer vision, VLM/LLM-based, and traditional-ML production systems at scale.
+Senior Machine Learning Engineer at **ThredUp**, building production ML systems at scale. I specialize in computer vision, VLM/LLM-based systems, and traditional ML pipelines.
 
-I am currently an industry mentor for students at Georgia Tech (MS - Computer Science '23) and Arizona State (BS - Data Science '19).
-
-I'm currently working at ThredUp building production ML systems in the algorithms engineering org.
+Industry mentor for students at Georgia Tech and Arizona State.
 
 ---
 
