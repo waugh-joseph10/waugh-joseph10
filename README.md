@@ -1,12 +1,10 @@
-<div align="center">
+# Joe Waugh
 
-**Joe Waugh** · Senior Machine Learning Engineer
+## Senior Machine Learning Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-waugh-672664139/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joe-waugh.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waugh.joseph10@gmail.com)
-
-</div>
 
 ---
 
